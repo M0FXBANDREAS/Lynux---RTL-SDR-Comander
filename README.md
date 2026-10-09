@@ -1,3 +1,5 @@
+Start Command  bash START-RASPBERRY-PI.sh
+
 [HamTech-RTL-Commander-Raspberry-Pi4.zip](https://github.com/user-attachments/files/33257641/HamTech-RTL-Commander-Raspberry-Pi4.zip)
 # Lynux---RTL-SDR-Comander
 SDR Comander 
